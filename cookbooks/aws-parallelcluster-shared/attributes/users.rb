@@ -1,4 +1,4 @@
-default['cluster']['reserved_base_uid'] = 400
+default['cluster']['reserved_base_uid'] = 500
 
 default['cluster']['cluster_admin_user'] = 'pcluster-admin'
 default['cluster']['cluster_admin_user_id'] = node['cluster']['reserved_base_uid']
